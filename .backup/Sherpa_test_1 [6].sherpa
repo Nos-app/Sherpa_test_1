@@ -43,12 +43,6 @@
           "Pinned": false
         },
         {
-          "RelativePath": "Изъятие цен с элементов.process",
-          "Main": false,
-          "Showing": false,
-          "Pinned": false
-        },
-        {
           "RelativePath": "Обработка загрузки файла.process",
           "Main": false,
           "Showing": false,

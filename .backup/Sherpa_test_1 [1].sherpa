@@ -37,21 +37,15 @@
           "Pinned": false
         },
         {
-          "RelativePath": "Загрузка браузера и поиск элементов.process",
+          "RelativePath": "Детальная страница элемента.process",
           "Main": false,
           "Showing": false,
           "Pinned": false
         },
         {
-          "RelativePath": "Изъятие цен с элементов.process",
+          "RelativePath": "Поиск и извлечение ссылок элементов.process",
           "Main": false,
-          "Showing": false,
-          "Pinned": false
-        },
-        {
-          "RelativePath": "Обработка загрузки файла.process",
-          "Main": false,
-          "Showing": false,
+          "Showing": true,
           "Pinned": false
         }
       ],

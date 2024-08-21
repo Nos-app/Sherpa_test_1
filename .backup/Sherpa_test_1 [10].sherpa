@@ -39,7 +39,7 @@
         {
           "RelativePath": "Загрузка браузера и поиск элементов.process",
           "Main": false,
-          "Showing": false,
+          "Showing": true,
           "Pinned": false
         },
         {
@@ -51,7 +51,7 @@
         {
           "RelativePath": "Обработка загрузки файла.process",
           "Main": false,
-          "Showing": false,
+          "Showing": true,
           "Pinned": false
         }
       ],
