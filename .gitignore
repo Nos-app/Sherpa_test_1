@@ -1,3 +1,5 @@
 _git2*
 *.robot
-.backup\
+.backup/
+.backup
+*.backup
