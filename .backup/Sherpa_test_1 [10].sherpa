@@ -45,7 +45,7 @@
         {
           "RelativePath": "Изъятие цен с элементов.process",
           "Main": false,
-          "Showing": false,
+          "Showing": true,
           "Pinned": false
         },
         {
