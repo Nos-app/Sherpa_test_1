@@ -28,8 +28,28 @@
   "Folders": [
     {
       "RelativePath": "",
-      "Folders": [],
+      "Folders": [
+        {
+          "RelativePath": "образец файла excel",
+          "Folders": [],
+          "Files": [
+            {
+              "RelativePath": "auto.xlsx",
+              "Main": false,
+              "Showing": false,
+              "Pinned": false
+            }
+          ],
+          "Links": []
+        }
+      ],
       "Files": [
+        {
+          "RelativePath": "auto.xlsx",
+          "Main": false,
+          "Showing": false,
+          "Pinned": false
+        },
         {
           "RelativePath": "..\\Здание 1\\Главная.process",
           "Main": true,

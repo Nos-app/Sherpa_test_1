@@ -45,13 +45,13 @@
         {
           "RelativePath": "Изъятие цен с элементов.process",
           "Main": false,
-          "Showing": false,
+          "Showing": true,
           "Pinned": false
         },
         {
           "RelativePath": "Обработка загрузки файла.process",
           "Main": false,
-          "Showing": true,
+          "Showing": false,
           "Pinned": false
         }
       ],

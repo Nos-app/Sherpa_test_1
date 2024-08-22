@@ -51,7 +51,7 @@
         {
           "RelativePath": "Обработка загрузки файла.process",
           "Main": false,
-          "Showing": false,
+          "Showing": true,
           "Pinned": false
         }
       ],
